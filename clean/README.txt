@@ -1,0 +1,1 @@
+Completed notebooks start with a Capital letter, uncompleted notebooks are not capitalised
